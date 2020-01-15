@@ -16,6 +16,7 @@
 
 #define BOEFFLA_WL_BLOCKER_VERSION	"1.1.0"
 
+
 #define LIST_WL_DEFAULT				"wlan;NETLINK;[timerfd];IPA_WS"
 
 #define LENGTH_LIST_WL				255
